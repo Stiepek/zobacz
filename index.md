@@ -18,22 +18,14 @@ Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
 https://www.openstreetbrowser.org
 w celu wyświetlenia na mapie wskazanych obiektów.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Skład zespołu projektowego
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Piotr Szczepański, 203911, KrZZIs3011Io (kierownik zespołu),
+2. Anna Wąsowicz,     161353, KrZZIs3011Io
+3. Jakub Piasecki,    203073, KrZZIs3011Io
+4. Patryk Materzok,   178301, KrZZIs3011Io
 
 **Bold** and _Italic_ and `Code` text
 
