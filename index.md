@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Charakterystyka projektu
 
-You can use the [editor on GitHub](https://github.com/Stiepek/zobacz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aplikacja o nazwie „Zobacz” ma wyświetlać informację na temat ciekawych miejsc w danej
+miejscowości oraz wskazać jakie warunki meteorologiczne aktualnie w niej panują. Aplikacja ma
+wyświetlać informację na temat zbytków oraz różnych atrakcji turystycznych w danym rejonie.
+Logowanie i rejestracja będzie odbywała się metodą tradycyjną. Możliwe również będzie logowanie
+się za pomocą Facebook’a z wykorzystaniem Facebook Javascript sdk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Interfejs umożliwia wybór miejscowości na kilka sposobów:
+a) podanie nazwy miejscowości,
+b) wpisanie długości i szerokości geograficznej,
+
+
+Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
+https://places.cit.api.here.com
+Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
+https://www.openstreetbrowser.org
+w celu wyświetlenia na mapie wskazanych obiektów.
 
 ### Markdown
 
