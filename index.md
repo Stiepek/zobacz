@@ -27,6 +27,14 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 3. Jakub Piasecki,    203073, KrZZIs3011Io
 4. Patryk Materzok,   178301, KrZZIs3011Io
 
+### Cel oraz cechy aplikacji
+
+
+
+
+### Linki do składowych projektu
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
