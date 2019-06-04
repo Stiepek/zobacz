@@ -18,6 +18,7 @@ Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
 https://www.openstreetbrowser.org
 w celu wyświetlenia na mapie wskazanych obiektów.
 
+## Projekt dostępny tutaj
 
 
 ### Skład zespołu projektowego
