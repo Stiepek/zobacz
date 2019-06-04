@@ -21,19 +21,19 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 ## Projekt dostępny tutaj
 
 
-### Skład zespołu projektowego
-
+## Skład zespołu projektowego
+**
 1. Piotr Szczepański, 203911, KrZZIs3011Io (kierownik zespołu),
 2. Anna Wąsowicz,     161353, KrZZIs3011Io
 3. Jakub Piasecki,    203073, KrZZIs3011Io
 4. Patryk Materzok,   178301, KrZZIs3011Io
-
-### Cel oraz cechy aplikacji
-
-
+**
+## Cel oraz cechy aplikacji
 
 
-### Linki do składowych projektu
+
+
+## Linki do składowych projektu
 
 
 **Bold** and _Italic_ and `Code` text
