@@ -13,21 +13,22 @@ b) wpisanie długości i szerokości geograficznej,
 
 
 Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
-https://places.cit.api.here.com
+[Link](https://places.cit.api.here.com)
 Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
-https://www.openstreetbrowser.org
+[Link](https://www.openstreetbrowser.org)
 w celu wyświetlenia na mapie wskazanych obiektów.
 
 ## Projekt dostępny tutaj
 
+[Link](https://github.com/zobaczteam/zobacz)
 
 ## Skład zespołu projektowego
-**
-1. Piotr Szczepański, 203911, KrZZIs3011Io (kierownik zespołu),
-2. Anna Wąsowicz,     161353, KrZZIs3011Io
-3. Jakub Piasecki,    203073, KrZZIs3011Io
-4. Patryk Materzok,   178301, KrZZIs3011Io
-**
+
+**1. Piotr Szczepański, 203911, KrZZIs3011Io (kierownik zespołu)**
+**2. Anna Wąsowicz,     161353, KrZZIs3011Io**
+**3. Jakub Piasecki,    203073, KrZZIs3011Io**
+**4. Patryk Materzok,   178301, KrZZIs3011Io**
+
 ## Cel oraz cechy aplikacji
 
 
