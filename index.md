@@ -20,7 +20,7 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 
 ## Projekt dostępny tutaj
 
-[Link do aplikacji](https://zobacz-9b594.web.app/)\
+[Link do aplikacji](https://zobacz-9b594.web.app/)   
 [Repozytorium na GitHubie](https://github.com/zobaczteam/zobacz)
 
 ## Skład zespołu projektowego
