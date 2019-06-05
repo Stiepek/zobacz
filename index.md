@@ -32,7 +32,7 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 
 ## Cel oraz cechy aplikacji
 
-
+![](Login.JPG)
 
 
 ## Linki do składowych projektu
