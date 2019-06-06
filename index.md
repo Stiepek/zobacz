@@ -43,5 +43,5 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 #### Zarządzanie projektem
 [Tablica Kanban Jira](https://zobacz.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=ZOB&atlOrigin=eyJpIjoiZjQwOTk2OWNhMWQ3NDliYmIyMjM5MzIwZDIzZjgxMTEiLCJwIjoiaiJ9)
 
-#### Diagram
-![Diagram DIA](DiagramDIA.png)
+#### Diagram aplikacji
+[Diagram DIA](https://github.com/Stiepek/zobacz/blob/master/DiagramDIA.png)
