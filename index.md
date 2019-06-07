@@ -22,6 +22,10 @@ w celu wyświetlenia na mapie wskazanych obiektów.
 
 [Link do aplikacji](https://zobacz-9b594.web.app/)  
 [Repozytorium na GitHubie](https://github.com/zobaczteam/zobacz)
+
+### Aplikacja mobilna
+
+[Repozytorium aplikacji mobilnej]()
   
 ## Skład zespołu projektowego
 
