@@ -17,13 +17,20 @@ Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na 
 Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
 [https://www.openstreetbrowser.org](https://www.openstreetbrowser.org)
 w celu wyświetlenia na mapie wskazanych obiektów.
+
+#### Aplikacja mobilna
+
+Aplikacja mobilna będzie posiadała dodatkową funkcjonalność, 
+czyli pobranie danych lokalizacyjnych przekazanych przez GPS
+a co za tym idzie pokazanie miejsca w którym się znajdujemy 
+zamiast wprowadzania jakichkolwiek danych jak miejścowość.
   
 ## Projekt dostępny tutaj
 
 [Link do aplikacji](https://zobacz-9b594.web.app/)  
 [Repozytorium na GitHubie](https://github.com/zobaczteam/zobacz)
 
-### Aplikacja mobilna
+#### Aplikacja mobilna
 
 [Repozytorium aplikacji mobilnej]()
   
