@@ -13,9 +13,9 @@ b) wpisanie długości i szerokości geograficznej,
 
 
 Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
-[https://places.cit.api.here.com](https://places.cit.api.here.com)
+[https://overpass-api.de/](https://overpass-api.de/)
 Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
-[https://www.openstreetbrowser.org](https://www.openstreetbrowser.org)
+[https://openlayers.org/](https://openlayers.org/)
 w celu wyświetlenia na mapie wskazanych obiektów.
 
 
@@ -33,8 +33,22 @@ w celu wyświetlenia na mapie wskazanych obiektów.
   
 ## Cel oraz cechy aplikacji
 
-![](Login.JPG)
+Celem aplikacji jest pokazanie na mapie ciekawych oraz wartych zobaczenia miejsc na mapie i wyświetlanie
+informacji odnośnie danego miejsca lub obiektu.
 
+Poniżej prezentujemy stronę logowania. Można również zalogować się przy użyciu Facebooka
+![](login.JPG)
+
+Gdy już jesteśmy zalogowani lub zarejestrowaliśmy się na "zobacz" aplikacji.
+Wybieramy metodę wskazania miejsca.
+Skupimy się teraz na opcji "Wpisz nazwę"
+
+W kolejny polu, które się pojawia wpisujemy nazwę, później wybieramy kategorię oraz interesujący nas obiekt.
+![](kategorie.JPG)
+
+Gdy już wszystko wypełniliśmy naszym oczom ukazuje się mapa w wyśrodkowanym i zaznaczonym obiektem, oraz 
+informacja o obiekcie ze strony Wikipedia, razem z odnośnikiem do pełnej treści akrtykułu.
+![](mapa.JPG)
   
 ## Linki do składowych projektu
 
